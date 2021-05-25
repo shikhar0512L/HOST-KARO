@@ -1,0 +1,24 @@
+*{
+  background:url(lukas-590022.jpg) no-repeat center center fixed;
+}
+#head{
+ 
+    /* background-color: chartreuse; */
+    margin: -8px;
+    padding: -14px;
+}
+
+/* #wd{} 
+
+#para{} */
+
+.link{
+  text-decoration: none;
+}
+#h{
+  padding: 5px;
+  background-color: rgb(0, 0, 0);
+}
+#btn{
+  border: 2px solid red;
+}

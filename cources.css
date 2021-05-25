@@ -1,0 +1,76 @@
+#btn1{
+    background-color: #d67fda; /* Green */
+    border: 2px solid red;
+    color: rgb(211, 45, 45);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#btn1:hover{
+    background-color: #3336dd; 
+    border: 3px solid rgb(17, 52, 167);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 12px;
+    font-size: 16px;
+}
+*{
+    background: url(browse.jpg  )no-repeat center center fixed; 
+}
+
+ /* #btn{
+
+} 
+#btn{
+
+}
+#btn{
+
+}
+#btn{
+
+}
+#btn{
+
+}
+#btn{
+
+}
+#btn{
+
+}
+#btn{
+
+}
+#btn{
+
+}
+#btn{
+
+}
+#btn{
+
+}
+#btn{
+
+}
+#btn{
+
+}
+#btn{
+
+}
+#btn{
+
+}
+#btn{
+
+}
+#btn{
+
+} */
